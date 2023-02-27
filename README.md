@@ -3,7 +3,7 @@
 The Lazy Student is a Video Summariser designed to save time.
 
 ## Program Architecture
-![alt text](https://github.com/joel-quek/lazy-student/blob/main/image1.png)
+![alt text](https://github.com/joel-quek/lazy-student/blob/main/image2.png)
 
 ## Python Libraries Required
 1. pytube
@@ -19,4 +19,5 @@ The Lazy Student is a Video Summariser designed to save time.
 The file "LazyStudent.py" can be copied and pasted onto your own Python interpreter and run independently. If you have all the necessary Python Libraries downloaded and functional, the GUI will be instantiated and you can use the program.
 
 ## the Inputs
+![alt text](https://github.com/joel-quek/lazy-student/blob/main/image1.png)
 
