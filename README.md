@@ -23,7 +23,7 @@ The file "LazyStudent.py" can be copied and pasted onto your own Python interpre
 
 ## The Output
 The parent folder will containt three files
-1. Video File (convert to MP$ by adding a ".mp4" in the filename)
+1. Video File (convert to MP4 by adding a ".mp4" in the filename)
 2. A Transcription File
 3. A Summary File
 
