@@ -20,7 +20,7 @@ def getPaper(paper_url, filename="random_paper.pdf"):
 def showPaperSummary(paperContent):
     tldr_tag = "\n tl;dr:"
     openai.organization = 'API KEY org'
-    openai.api_key = "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" #"your openAI key"
+    openai.api_key = "" #"your openAI key"
     engine_list = openai.Engine.list() 
     
     for page in paperContent:    
