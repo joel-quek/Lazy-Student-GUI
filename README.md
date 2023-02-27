@@ -26,3 +26,5 @@ The parent folder will containt three files
 1. Video File (convert to MP$ by adding a ".mp4" in the filename)
 2. A Transcription File
 3. A Summary File
+
+Thank You :)
